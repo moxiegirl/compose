@@ -3,7 +3,7 @@
 title = "port"
 description = "Prints the public port for a port binding.s"
 keywords = ["fig, composition, compose, docker, orchestration, cli,  port"]
-[menu.main]
+[menu.compose]
 identifier="port.compose"
 parent = "smn_compose_cli"
 +++

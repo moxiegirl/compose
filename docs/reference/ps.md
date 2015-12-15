@@ -3,7 +3,7 @@
 title = "ps"
 description = "Lists containers."
 keywords = ["fig, composition, compose, docker, orchestration, cli,  ps"]
-[menu.main]
+[menu.compose]
 identifier="ps.compose"
 parent = "smn_compose_cli"
 +++

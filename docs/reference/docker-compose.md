@@ -3,7 +3,7 @@
 title = "docker-compose"
 description = "docker-compose Command Binary"
 keywords = ["fig, composition, compose, docker, orchestration, cli,  docker-compose"]
-[menu.main]
+[menu.compose]
 parent = "smn_compose_cli"
 weight=-2
 +++

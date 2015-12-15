@@ -3,7 +3,7 @@
 title = "help"
 description = "help"
 keywords = ["fig, composition, compose, docker, orchestration, cli,  help"]
-[menu.main]
+[menu.compose]
 identifier="help.compose"
 parent = "smn_compose_cli"
 +++

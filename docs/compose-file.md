@@ -4,8 +4,8 @@ title = "Compose file reference"
 description = "Compose file reference"
 keywords = ["fig, composition, compose, docker"]
 aliases = ["/compose/yml"]
-[menu.main]
-parent="smn_compose_ref"
+[menu.compose]
+
 +++
 <![end-metadata]-->
 

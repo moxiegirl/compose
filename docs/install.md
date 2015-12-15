@@ -3,7 +3,7 @@
 title = "Docker Compose"
 description = "How to install Docker Compose"
 keywords = ["compose, orchestration, install, installation, docker, documentation"]
-[menu.main]
+[menu.compose]
 parent="mn_install"
 weight=4
 +++

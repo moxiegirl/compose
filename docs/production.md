@@ -3,8 +3,8 @@
 title = "Using Compose in production"
 description = "Guide to using Docker Compose in production"
 keywords = ["documentation, docs,  docker, compose, orchestration, containers,  production"]
-[menu.main]
-parent="smn_workw_compose"
+[menu.compose]
+
 weight=1
 +++
 <![end-metadata]-->

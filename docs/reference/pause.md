@@ -3,7 +3,7 @@
 title = "pause"
 description = "Pauses running containers for a service."
 keywords = ["fig, composition, compose, docker, orchestration, cli, pause"]
-[menu.main]
+[menu.compose]
 identifier="pause.compose"
 parent = "smn_compose_cli"
 +++

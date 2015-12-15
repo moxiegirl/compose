@@ -3,9 +3,8 @@
 title = "Compose CLI reference"
 description = "Compose CLI reference"
 keywords = ["fig, composition, compose, docker, orchestration, cli,  reference"]
-[menu.main]
+[menu.compose]
 identifier = "smn_compose_cli"
-parent = "smn_compose_ref"
 +++
 <![end-metadata]-->
 

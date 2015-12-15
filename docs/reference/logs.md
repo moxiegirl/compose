@@ -3,7 +3,7 @@
 title = "logs"
 description = "Displays log output from services."
 keywords = ["fig, composition, compose, docker, orchestration, cli,  logs"]
-[menu.main]
+[menu.compose]
 identifier="logs.compose"
 parent = "smn_compose_cli"
 +++

@@ -3,7 +3,7 @@
 title = "unpause"
 description = "Unpauses paused containers for a service."
 keywords = ["fig, composition, compose, docker, orchestration, cli, unpause"]
-[menu.main]
+[menu.compose]
 identifier="unpause.compose"
 parent = "smn_compose_cli"
 +++

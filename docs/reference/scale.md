@@ -3,7 +3,7 @@
 title = "scale"
 description = "Sets the number of containers to run for a service."
 keywords = ["fig, composition, compose, docker, orchestration, cli,  scale"]
-[menu.main]
+[menu.compose]
 parent = "smn_compose_cli"
 +++
 <![end-metadata]-->

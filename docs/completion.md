@@ -3,8 +3,8 @@
 title = "Command-line Completion"
 description = "Compose CLI reference"
 keywords = ["fig, composition, compose, docker, orchestration, cli,  reference"]
-[menu.main]
-parent="smn_workw_compose"
+[menu.compose]
+
 weight=10
 +++
 <![end-metadata]-->
